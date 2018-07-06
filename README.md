@@ -2,9 +2,9 @@
 
 ### 基础教程
 
-- [ ] 1. [概述 Overview](./1.概述%20Overview/)
+- [x] 1. [概述 Overview](./1.概述%20Overview/)
 
-- [ ] 2. [环境设置 Environment Setup](./2.环境设置%20Environment Setup/)
+- [ ] 2. [环境设置 Environment Setup](./2.环境设置%20Environment%20Setup/)
 
 - [ ] 3. [基本语法 Basic Syntax](./3.基本语法%20Basic%20Syntax/)
 
