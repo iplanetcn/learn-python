@@ -2,7 +2,7 @@
 
 ### 基础教程
 
-- [ ]1. [概述 Overview](./1.概述 Overview/)
+- [ ] 1.  [概述 Overview](../1.概述 Overview/)
 
 - [ ]2. [环境设置 Environment Setup](./2.环境设置 Environment Setup/)
 
