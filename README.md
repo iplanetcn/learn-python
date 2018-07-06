@@ -2,7 +2,7 @@
 
 ### 基础教程
 
-- [ ]1. [概述\ Overview](https://github.com/iplanetcn/learn-python/1.概述\ Overview/)
+- [ ]1. ["概述 Overview"]("https://github.com/iplanetcn/learn-python/1.概述 Overview/")
 
 - [ ]2. [环境设置 Environment Setup](https://github.com/iplanetcn/learn-python/2.环境设置 Environment Setup/)
 
